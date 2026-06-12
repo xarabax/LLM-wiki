@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/xarabax/wiki/wiki_personale status)",
+      "Bash(ssh -T git@github.com)",
+      "Bash(ssh-keyscan github.com >> ~/.ssh/known_hosts 2>&1 && ssh -T git@github.com 2>&1)",
+      "Bash(ssh-keygen -t ed25519 -C \"xarabax@gmail.com\" -f ~/.ssh/id_ed25519 -N \"\")",
+      "Bash(git init *)",
+      "Bash(git add *)"
+    ],
+    "additionalDirectories": [
+      "/Users/xarabax/.ssh"
+    ]
+  }
+}

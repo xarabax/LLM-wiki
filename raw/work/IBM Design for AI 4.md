@@ -1,0 +1,100 @@
+---
+title: "IBM Design for AI"
+source: "https://www.ibm.com/design/ai/conversation/planning"
+author:
+published:
+created: 2026-06-10
+description: "Our practice is built on our Principles for the AI Era as a resource for all designers and developers. This shared collection of ethics, guidelines, and resources ensures that IBM products share a unified foundation."
+tags:
+  - "clippings"
+---
+Now that machines, powered by analytics and cognitive capabilities, can technically understand, reason, learn and interact using natural language, what will they say when designers give them a voice?
+
+## Establish its purpose
+
+Now that you understand more about bots and conversation, it’s time to start preparing for the actual building. Using the concepts form the learning phase, you will be developing a plan *before* sitting down in your tooling to write content.
+
+#### Six core AI intents
+
+First and foremost, you must establish the purpose for your bot. This will be the basis of all of your conversational content and functionality. The most common reasons to use AI are to:
+
+1. Accelerate research and discovery
+2. Enrich your interactions
+3. Anticipate and preempt disruptions
+4. Recommend with confidence
+5. Scale expertise and learning
+6. Detect liabilities and mitigate risks
+
+Narrowing your intent helps focus your work and accomplish a manageable number of tasks with higher quality. The probability of success is best correlated with how focused your bot is. Having a clear understanding of the focus also helps you communicate what exactly your bot can do so you avoid unrealistic expectations of the bot.
+
+#### Justify a bot as the solution
+
+Always remember that bots aren’t an instant solution to problems facing your business or brand. The reasoning behind using a bot as a solution shouldn’t be just because the technology exists. The reasoning must be based on the real value natural conversation would bring to your users and brand. Implementing conversation has its highest value when there is a need for engaging, contextual interaction, or a bot can accomplish something faster than traditional means.
+
+Before choosing a bot as a solution, ask yourself these questions.
+
+- What is the user’s goal?
+- How in-depth is the assistance the user will need?
+- Is your domain something that is better off left in the hands of human assistance?
+- How is a bot superior to “x” (i.e. online documentation, contextual support, wizards, etc…)?
+
+#### Example
+
+Let’s say one of your clients is a bank named Big Blue Bank. The bank has expressed interest in some sort of virtual agent that they can interact with when the bank is closed. This is not just for online banking, but to make users feel the same personal trust and connection they feel when speaking with a bank teller. Your bot’s purpose would be to provide a trustworthy, personable bot that assists Big Blue Bank customers with any banking or customer service needs at any hour.
+
+## Determine topic breadth
+
+The primary goal of bot planning is to determine a bot’s “Minimum Viable Knowledge”, or MVK. This is the minimum set of topics your bot will need to be able to proficiently discuss in order to be successful and fulfill its purpose. If you have those, then you set your bot up with a strong foundation.
+
+The steps to achieving your MVK is twofold: 1. Determining which topics are needed and 2. How deep each topic should be covered.
+
+First, list out all the possible topics you can think of for your bot. Then, prioritize. The fewer and more focused, the more likely your bot will be successful.
+
+#### Example
+
+After doing your research and deciding your bot’s purpose it should start to become to clear what your topics will be. These are the subjects of the conversation. For Big Blue Bank, these could be some starter topics for an MVK.
+
+- Opening a new account
+- Money transfers
+- Deposits
+- Withdrawals
+- Loans
+- Basic Self-serve Customer Service
+
+## Determine topic depth
+
+After determining which topics are of utmost importance given your bot’s intent, it’s time to map out how fluently it should be able to speak about each one.
+
+Each topic will require you not only to design all possible ideal paths, but all possible precautions for when the bot fails to understand the user. In the moments where the user has strayed outside of your bot’s capabilities, irritation and frustration can naturally follow. This ability to elegantly fail and repair the conversation is paramount for displaying provable authenticity and building trust.
+
+At this step, start with a topic and flesh out the individual turns between the human and bot until it reaches a dead end. It helps to start with the ideal path(s), and from there branch off into all of the possible ways mistakes or deviations can get made along the way.
+
+#### Example
+
+Big Blue Bank decides that opening a new account is the lowest hanging fruit. They diverge on all of the different paths a user might take to open an account, including places where it would be easier to be handed off to a human and places where errors can happen.
+
+## Design your bot’s personality
+
+Personality follows the MVK, because solving the user’s need is first priority. Also, without all of the proper planning, you will be ill-prepared to identify the proper personality for your bot. Since a bot’s personality will be the “being” that the user will interact with in the end product, it needs to properly reflect the conversational tendencies of its particular domain.
+
+You will need to establish a personality that best communicates your bot’s purpose and represent’s your brands values. By understanding how your personality would act and speak in a situation, you can write your conversation through their imaginary voice.
+
+Ask yourselves these questions when developing your bot’s personality:
+
+- How social is it?
+- How open and up front is it?
+- How agreeable is it?
+- How thoughtful is it?
+- How moody is it?
+- How excitable is it?
+- How professional is it?
+- What kind of character is it?
+- How would it react in negative or hostile situation?
+- What medium will it utilize?
+- What is it not like?
+
+There are lots of different ways to come up with a personality, and all of them are correct. You might consider thinking about personality mapping techniques including the Caliper Profile, or the Myers & Briggs Type Indicator.
+
+#### Example
+
+For Big Blue Bank, you may consider striking a balance between an official tone and a friendly, trusting tone. Look at the most successful banking employees with great relationships with their customers. How do they act? In what situations do they joke around, and in what situations are they serious?

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:simonwillison.net)",
+      "Bash(python3 *)",
+      "Bash(ls ~/.claude/plugins/cache/ 2>/dev/null | head -20)",
+      "Read(//Users/xarabax/.claude/plugins/cache/**)",
+      "Bash(claude plugin *)"
+    ]
+  }
+}

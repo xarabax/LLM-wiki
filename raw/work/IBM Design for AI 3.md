@@ -1,0 +1,53 @@
+---
+title: "IBM Design for AI"
+source: "https://www.ibm.com/design/ai/ethics/everyday-ethics"
+author:
+published:
+created: 2026-06-10
+description: "Our practice is built on our Principles for the AI Era as a resource for all designers and developers. This shared collection of ethics, guidelines, and resources ensures that IBM products share a unified foundation."
+tags:
+  - "clippings"
+---
+Ethical decision-making isn’t just another form of technical problem solving. As designers and developers of AI systems, we hold a vast share of the collective influence and it is an imperative to understand the ethical considerations of our work. We are creating systems that will impact millions of people.
+
+## Introduction
+
+#### Everyday ethics for AI provides discussion points concerning:
+
+- specific virtues that AI systems should possess;
+- guidance for designers and developers training and building AI.
+
+Artificial intelligence is rapidly growing in capability, impact and influence. As designers and developers of AI systems, it is an imperative to understand the ethical considerations of our work. A tech-centric focus that solely revolves around improving the capabilities of an intelligent system doesn’t sufficiently consider human needs.
+
+AI systems must remain flexible enough to undergo constant maintenance and improvement as ethical challenges are discovered and remediated. By adopting and practicing the five focal areas covered here, designers and developers can become more ethically aware, mitigate biases within these systems, and instill responsibility and accountability in those who work with AI. Constant improvement and assessment is key to ensuring that design and development teams address users’ concerns.
+
+#### Five Ethical Focal Areas
+
+1. [Accountability](https://www.ibm.com/design/ai/ethics/accountability)
+2. [Value Alignment](https://www.ibm.com/design/ai/ethics/value-alignment)
+3. [Explainability](https://www.ibm.com/design/ai/ethics/explainability)
+4. [Fairness](https://www.ibm.com/design/ai/ethics/fairness)
+5. [User Data Rights](https://www.ibm.com/design/ai/ethics/user-data-rights)
+
+These focal areas provide an intentional framework for establishing an ethical foundation for building and using AI systems. As much of what we do related to artificial intelligence is new territory for all of us, individuals and groups will need to further define criteria and metrics for evaluation to better allow for the detection and mitigation of any issues.
+
+The large-scale focus on AI ethics by groups like the IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems, which will be referenced throughout this guide, should be mirrored in businesses and working groups of all sizes. The criteria and metrics for ethical AI systems will ultimately depend on the industry and use case they operate within.
+
+We hope this guide serves as a centralized source that helps teams establish best practices. Designers and developers should never work in a vacuum and must stay in tune with users’ needs and concerns.
+
+Constant improvement and assessment is key to ensuring that design and development teams address users’ concerns. This guide provides teams with a starting point and will surely evolve as AI capabilities continue to grow.
+
+The idea here is to start simple and iterate. We’re dependent on you to experiment, play, use, and break what you find here and send us your feedback. As you work with your team and others, please share this guide with them. If you have questions, comments or suggestions please email [edethics@us.ibm.com](mailto:edethics@us.ibm.com).
+
+## Running example
+
+A hotel chain wants to embed artificial intelligence into an in-room virtual assistant/concierge to augment and personalize their users’ stay. We’ll use the project team in charge of this effort as an example throughout the guide. This conversational agent will include capabilities such as:
+
+- Agentive-style assistance.
+- Introduction to their room and services in their preferred language.
+- Control of room facilities through natural language.
+- Sending a request directly to the service team through the in-room virtual assistant.
+
+![Hotel running example illustration](https://www.ibm.com/design/ai/static/a5168b4ba39c368d49412bd01b69b06f/dd1f2/Image_1.png)
+
+Hotel running example illustration
