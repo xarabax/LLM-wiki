@@ -41,6 +41,9 @@ See [[overview]] for the big-picture synthesis. See `log.md` for the timeline.
 
 ## Personal
 
+### To-Do
+- [[todo]] — Vista aggregata dei task attivi, organizzati per progetto e focus settimanale
+
 ### Profile
 - [[marco-cassani]] — Profilo principale: consulente AI & Automazione, Digital & Innovation Manager dal 2016
 

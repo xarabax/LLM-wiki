@@ -216,6 +216,25 @@ Triggered when the user says: *"monitor [source-name]"*, *"controlla Simon"*, or
 
 ---
 
+## TODO-MANAGE
+
+Triggered when the user says: *"todo: [testo]"*, *"segna fatto [task]"*, *"aggiungi task [X]"*, *"mostra to-do"*, *"cosa ho da fare"*.
+
+**File:** `wiki/personal/todo.md` — è la *vista aggregata*, non la fonte primaria dei task. Le pagine-progetto restano la fonte; `todo.md` è la lente "cosa faccio adesso".
+
+**Regole:**
+
+- **Aggiungere un task:** inserirlo nella sezione più appropriata (Inbox se non è chiaro, Focus se è urgente, sotto il progetto corretto se è contestualizzato). Usare `- [ ]` e wikilink se il task è legato a una pagina esistente. Esempio: `- [ ] Finire bozza per [[orchestrazione-processi]]`.
+- **Spuntare un task:** sostituire `- [ ]` con `- [x]`. Non spostare ancora nell'archivio — aspetta il momento della pulizia.
+- **Archiviare task completati:** spostare i `- [x]` nella sezione `## Archivio` con la data di completamento. Formato: `- [x] Testo task — ✓ YYYY-MM-DD`. Non cancellare mai — l'archivio è un log di ciò che hai fatto.
+- **Inbox → elaborazione:** quando l'utente chiede di elaborare l'inbox, spostare ogni voce nella sezione giusta (Focus o Progetti) e svuotare l'Inbox.
+- **Aggiornare `updated:` nel frontmatter** ad ogni modifica.
+- **Non toccare `log.md`** per le operazioni todo (troppo rumore). Eccezione: se si aggiunge un task che sblocca o chiude un obiettivo, aggiorna la pagina-goal corrispondente.
+
+**Nota MCP:** `mcp__wiki__edit_file` è abilitato — questo file è modificabile da qualsiasi sessione Claude via MCP.
+
+---
+
 ## Evolving This Schema
 
 This file is a living document. When you and the user discover that a convention doesn't work, update this file. The schema evolves with the wiki.
