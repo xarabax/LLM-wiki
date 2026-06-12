@@ -97,3 +97,6 @@ See [[overview]] for the big-picture synthesis. See `log.md` for the timeline.
 
 ## Queries
 *(none yet)*
+
+---
+<!-- 2026-06-12: wiki collegata ad Antigravity via MCP server filesystem (scope user, read-only) -->
