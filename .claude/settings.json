@@ -6,7 +6,12 @@
       "Bash(ssh-keyscan github.com >> ~/.ssh/known_hosts 2>&1 && ssh -T git@github.com 2>&1)",
       "Bash(ssh-keygen -t ed25519 -C \"xarabax@gmail.com\" -f ~/.ssh/id_ed25519 -N \"\")",
       "Bash(git init *)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(ssh-add --apple-use-keychain ~/.ssh/id_ed25519)",
+      "Bash(git -C /Users/xarabax/wiki/wiki_personale remote -v)"
     ],
     "additionalDirectories": [
       "/Users/xarabax/.ssh"
